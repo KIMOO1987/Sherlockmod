@@ -1,6 +1,6 @@
 #!/bin/sh
 #########################################################
-version=1.4.1
+version=1.5
 description="New version of Sherlockmod is available for download with fix lot of bugs." !!!
 
 #########################################################
